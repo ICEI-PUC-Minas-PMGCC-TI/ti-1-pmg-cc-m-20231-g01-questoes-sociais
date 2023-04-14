@@ -7,7 +7,7 @@ Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
 * Gabriel Pereira Lara
 * Lara Pereia
 * Luisa Clara de Paula Lara Silva
-* Yasmin
+* Yasmin Cassemiro Viegas
 
 ## Professores responsáveis
 
