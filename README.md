@@ -12,7 +12,7 @@ Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
 ## Professores responsáveis
 
 * João Carlos Oliveira Caetano
-* Nome completo do professor 2
+
 
 ## Instruções de utilização
 
