@@ -75,6 +75,7 @@ Devido a esses fatos, nosso site tem o objetivo de dar voz e ajudar essas minori
 > - Mapa de StakeHolder
 > ![image](https://user-images.githubusercontent.com/130714429/232174498-00f99555-11a1-4275-9aea-2c6177387868.png)
 
+>
 > - Mapa de Personas
 > ![image](https://user-images.githubusercontent.com/130714429/232178203-2d733c43-d7ae-4b72-9893-f1d09dca06ee.png)
 > ![image](https://user-images.githubusercontent.com/130714429/232178214-2a60172d-8bd1-4781-9247-c297e05265b2.png)
@@ -83,7 +84,6 @@ Devido a esses fatos, nosso site tem o objetivo de dar voz e ajudar essas minori
  
 # Especificações do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
 
 > Miro (template oferecido pelos professores).
 > Google Docs.
@@ -96,27 +96,16 @@ Devido a esses fatos, nosso site tem o objetivo de dar voz e ajudar essas minori
 > ![image](https://user-images.githubusercontent.com/130714429/232178312-8a14c577-d376-4a57-b65f-a93be6311b02.png)
 
 
-
-
 ## Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Mulher que sofri machismo no campus  | Metodo de denúncias anônimas           | Não ter medo de realizar uma denúncia              |
+|Aluno gay       | Maior segurança em festas                 | Me sentir seguro |
+| única aluna negra | Ter mais voz em minha sala | Para ser escutada melhor|
 
-> Apresente aqui as histórias de usuário que são relevantes para o
-> projeto de sua solução. As Histórias de Usuário consistem em uma
-> ferramenta poderosa para a compreensão e elicitação dos requisitos
-> funcionais e não funcionais da sua aplicação. Se possível, agrupe as
-> histórias de usuário por contexto, para facilitar consultas
-> recorrentes à essa parte do documento.
->
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
 
 ## Requisitos
 
