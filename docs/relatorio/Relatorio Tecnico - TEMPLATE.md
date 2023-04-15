@@ -104,7 +104,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |--------------------|------------------------------------|----------------------------------------|
 |Mulher que sofri machismo no campus  | Metodo de denúncias anônimas           | Não ter medo de realizar uma denúncia              |
 |Aluno gay       | Maior segurança em festas                 | Me sentir seguro |
-| única aluna negra | Ter mais voz em minha sala | Para ser escutada melhor|
+|Única aluna negra | Ter mais voz em minha sala | Para ser escutada melhor|
 
 
 ## Requisitos
@@ -115,37 +115,19 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| Permitir que o usuário faça denúncias anônimas | MÉDIA | 
+|RF-002| Fornecer rapidamente números para ligar em casos de denúncia   | ALTA |
+|RF-003| Fornecer informações sobre assedios e o que realizar em cada situação | ALTA |
 
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
+|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | ALTA | 
 |RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
 
-> Com base nas Histórias de Usuário, enumere os requisitos da sua
-> solução. Classifique esses requisitos em dois grupos:
->
-> - [Requisitos Funcionais (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
->   correspondem a uma funcionalidade que deve estar presente na
->   plataforma (ex: cadastro de usuário).
->
-> - [Requisitos Não Funcionais (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
->   correspondem a uma característica técnica, seja de usabilidade,
->   desempenho, confiabilidade, segurança ou outro (ex: suporte a
->   dispositivos iOS e Android).
->
-> Lembre-se que cada requisito deve corresponder à uma e somente uma
-> característica alvo da sua solução. Além disso, certifique-se de que
-> todos os aspectos capturados nas Histórias de Usuário foram cobertos.
-> 
-> **Links Úteis**:
-> 
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
+
 
 
 ## Restrições
@@ -166,7 +148,6 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Projeto de Interface
 
-......  COLOQUE AQUI O SEU TEXTO DE INTRODUÇÃO ......
 
 > Interfaces do wireframe elaboradas no canvas e user flow elaborado no miro.
 
@@ -196,13 +177,6 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Metodologia
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Nesta parte do documento, você deve apresentar a metodologia 
-> adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, 
-> a divisão de papéis e tarefas, as ferramentas empregadas e como foi realizada a
-> gestão de configuração do projeto via GitHub.
->
 
 ## Divisão de Papéis
 
@@ -214,6 +188,10 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |Luisa Clara de Paula Lara Silva| Scrum Master                       |
 |Yasmim Cassemiro Viegas        | DEV                                |
 
+##Divisão de tarefas utilizando o trello
+
+![image](https://user-images.githubusercontent.com/130714429/232179237-89171a46-6817-419d-ab22-ee3702e85918.png)
+
 
 ## Ferramentas
 
@@ -224,11 +202,12 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |Processo de Design Thinkgin  | Miro |  https://miro.com/app/board/uXjVMYIm4CU=/ | 
 |Repositório de código | GitHub | https://github.com/XXXXXXX | 
 |Hospedagem do site | Heroku | | 
-|Protótipo Interativo | MavelApp ou Figma | https://dellattio.my.canva.site | 
+|Protótipo Interativo | Canva | https://dellattio.my.canva.site | 
+|Divisão de tarefas | Trello | https://trello.com/pt-BR |
 
 > Foi escolhido o canvas devido o template fornecido por eles ser mais interressante,
-> Repositorio no github, processo de design thinking e organização em grupo teve as escolhas
-> de site referente ao recomendado pelos professores.
+> Repositorio no github, processo de design thinking e organização em grupo teve as escolhas de site referente ao recomendado pelos professores.
+> Por motivos de segurança não sera oferecido o link do trello pelo github por permitir a edição de todos que tiverem acesso ao link
 
 ## Controle de Versão
 
