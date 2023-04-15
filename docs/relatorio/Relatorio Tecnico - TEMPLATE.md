@@ -228,22 +228,16 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Wireframes
 
-......  INCLUA AQUI OS WIREFRAMES DAS TELAS DA APLICAÇÃO COM UM BREVE DESCRITIVO ......
 
-> Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
-> estrutura de um site web e seu relacionamentos entre suas
-> páginas. Um wireframe web é uma ilustração semelhante ao
-> layout de elementos fundamentais na interface.
+> https://dellattio.my.canva.site Link do template do site
 > 
-> **Links Úteis**:
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> 
-> **Exemplo**:
-> 
-> ![Exemplo de Wireframe](images/wireframe-example.png)
+> ![image](https://user-images.githubusercontent.com/130714429/232176883-4d592e93-2f48-48f6-bcb7-d0cda434d276.png)
+> Tela inicial.
+> ![image](https://user-images.githubusercontent.com/130714429/232176902-23dd45d1-c9b6-4deb-9158-65d2f0cd9e46.png)
+> Ao rolar a tela existe a explicação de nosso site seguido de botões para realizar ligações de denúncias.
+> ![image](https://user-images.githubusercontent.com/130714429/232176970-e114f7c0-e4a8-45c3-8eb5-4855dcc2aeb3.png)
+> ![image](https://user-images.githubusercontent.com/130714429/232176985-89e7a378-e867-4552-94a8-3b263db22bea.png)
+>  Entrar em contato com os criadores.
 
 
 # Metodologia
@@ -255,26 +249,16 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 > a divisão de papéis e tarefas, as ferramentas empregadas e como foi realizada a
 > gestão de configuração do projeto via GitHub.
 >
-> Coloque detalhes sobre o processo de Design Thinking e a implementação do Framework Scrum seguido
-> pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar
-> o andamento do projeto, a execução das tarefas e o status de desenvolvimento
-> da solução.
-> 
-> **Links Úteis**:
-> - [Tutorial Trello](https://trello.com/b/8AygzjUA/tutorial-trello)
-> - [Gestão ágil de projetos com o Trello](https://www.youtube.com/watch?v=1o9BOMAKBRE)
-> - [Gerência de projetos - Trello com Scrum](https://www.youtube.com/watch?v=DHLA8X_ujwo)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
 
 ## Divisão de Papéis
 
-......  COLOQUE AQUI O SEU TEXTO ......
 
-> Apresente a divisão de papéis e tarefas entre os membros do grupo.
->
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+|MEMBRO                         | CARGO NO SCRUM                     |
+|-------------------------------|------------------------------------|
+|Gabriel Pereira Lara           | PO                                 |
+|Lara Pereira Martins           | DEV                                |
+|Luisa Clara de Paula Lara Silva| Scrum Master                       |
+|Yasmim Cassemiro Viegas        | DEV                                |
 
 
 ## Ferramentas
@@ -285,31 +269,12 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |-----------|-------------------------|---------------|
 |Processo de Design Thinkgin  | Miro |  https://miro.com/app/board/uXjVMYIm4CU=/ | 
 |Repositório de código | GitHub | https://github.com/XXXXXXX | 
-|Hospedagem do site | Heroku |  https://XXXXXXX.herokuapp.com | 
-|Protótipo Interativo | MavelApp ou Figma | https://figma.com/XXXXXXX | 
+|Hospedagem do site | Heroku | | 
+|Protótipo Interativo | MavelApp ou Figma | https://dellattio.my.canva.site | 
 
->
-> Liste as ferramentas empregadas no desenvolvimento do
-> projeto, justificando a escolha delas, sempre que possível.
-> 
-> As ferramentas empregadas no projeto são:
-> 
-> - Editor de código.
-> - Ferramentas de comunicação
-> - Ferramentas de diagramação
-> - Plataforma de hospedagem
-> 
-> O editor de código foi escolhido porque ele possui uma integração com o
-> sistema de versão. As ferramentas de comunicação utilizadas possuem
-> integração semelhante e por isso foram selecionadas. Por fim, para criar
-> diagramas utilizamos essa ferramenta por melhor captar as
-> necessidades da nossa solução.
-> 
-> **Links Úteis - Hospedagem**:
-> - [Getting Started with Heroku](https://devcenter.heroku.com/start)
-> - [Crie seu Site com o HostGator](https://www.hostgator.com.br/como-publicar-seu-site)
-> - [GoDady](https://br.godaddy.com/how-to)
-> - [GitHub Pages](https://pages.github.com/)
+> Foi escolhido o canvas devido o template fornecido por eles ser mais interressante,
+> Repositorio no github, processo de design thinking e organização em grupo teve as escolhas
+> de site referente ao recomendado pelos professores.
 
 ## Controle de Versão
 
