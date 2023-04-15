@@ -1,7 +1,6 @@
 # Informações do Projeto
-`TÍTULO DO PROJETO`  
+`Delattio`  
 
-......  COLOQUE AQUI O SEU TEXTO ......
 
 `CURSO` 
 
