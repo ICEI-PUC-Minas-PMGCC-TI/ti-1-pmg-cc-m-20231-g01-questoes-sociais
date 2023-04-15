@@ -53,11 +53,9 @@ Ciência de Computação no  Coreu
 
 ## Problema
 
-
 >Nosso site tem o objetivo de ajudar minorias, fornecendo orientações quanto agindo como uma plataforma de apoio para realizar denúncias.
 
 ## Objetivos
-......  COLOQUE AQUI O SEU TEXTO ......
 
 > No nosso site conterá informações para ajudar as pessoas identificarem assédios sofridos e onde poderiam denunciar, além de também ajudar na realização de denúncias anônimas preenchendo um formulário que também seria anônimo. 
 > Ou seja
@@ -72,14 +70,16 @@ Devido a esses fatos, nosso site tem o objetivo de dar voz e ajudar essas minori
 
 ## Público-Alvo
 
-......  COLOQUE AQUI O SEU TEXTO ......
 
 >  Pessoas físicas que fazem parte de alguma minoria e já sofreram algum tipo de preconceito devido a isso.
 > - Mapa de StakeHolder
 > ![image](https://user-images.githubusercontent.com/130714429/232174498-00f99555-11a1-4275-9aea-2c6177387868.png)
 
 > - Mapa de Personas
-> 
+> ![image](https://user-images.githubusercontent.com/130714429/232178203-2d733c43-d7ae-4b72-9893-f1d09dca06ee.png)
+> ![image](https://user-images.githubusercontent.com/130714429/232178214-2a60172d-8bd1-4781-9247-c297e05265b2.png)
+> ![image](https://user-images.githubusercontent.com/130714429/232178241-796516b8-0641-409b-ae05-410e51bb58f3.png)
+
  
 # Especificações do Projeto
 
@@ -91,34 +91,11 @@ Devido a esses fatos, nosso site tem o objetivo de dar voz e ajudar essas minori
 
 ## Personas, Empatia e Proposta de Valor
 
-......  COLOQUE AQUI O SEU TEXTO ......
+> ![image](https://user-images.githubusercontent.com/130714429/232178274-f6f58517-e091-468b-a062-c43111bfff95.png)
+> ![image](https://user-images.githubusercontent.com/130714429/232178296-bafce469-9584-412e-bb82-ade22ba59559.png)
+> ![image](https://user-images.githubusercontent.com/130714429/232178312-8a14c577-d376-4a57-b65f-a93be6311b02.png)
 
 
-> Relacione as personas identificadas no seu projeto, os respectivos mapas de empatia e 
-> mapas da proposta de valor. Lembre-se que você deve ser enumerar e descrever precisamente 
-> e de forma personalizada todos os principais envolvidos com a solução almeja. 
-> 
-> Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina
-> e/ou nos seguintes links:
->
-> **Links Úteis**:
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Como fazer um mapa de empatia - Vídeo](https://www.youtube.com/watch?v=JlKHGpVoA2Y)
-> - [Canvas da Proposta de Valor](https://analistamodelosdenegocios.com.br/canvas-da-proposta-de-valor/)
-> 
-> 
-> **Exemplo de Persona**
-> 
-> ![Exemplo de Persona](images/persona.png)
-> 
-> Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/)
->
-> **Exemplo de Proposta de Valor**
-> ![Exemplo da Proposta de Valor](images/proposta_valor.png)
 
 
 ## Histórias de Usuários
