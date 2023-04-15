@@ -72,11 +72,10 @@ Devido a esses fatos, nosso site tem o objetivo de dar voz e ajudar essas minori
 
 
 >  Pessoas físicas que fazem parte de alguma minoria e já sofreram algum tipo de preconceito devido a isso.
-> - Mapa de StakeHolder
+>   - Mapa de StakeHolder
 > ![image](https://user-images.githubusercontent.com/130714429/232174498-00f99555-11a1-4275-9aea-2c6177387868.png)
 
->
-> - Mapa de Personas
+- Mapa de Personas
 > ![image](https://user-images.githubusercontent.com/130714429/232178203-2d733c43-d7ae-4b72-9893-f1d09dca06ee.png)
 > ![image](https://user-images.githubusercontent.com/130714429/232178214-2a60172d-8bd1-4781-9247-c297e05265b2.png)
 > ![image](https://user-images.githubusercontent.com/130714429/232178241-796516b8-0641-409b-ae05-410e51bb58f3.png)
