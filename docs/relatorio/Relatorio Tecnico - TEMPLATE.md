@@ -322,12 +322,10 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 
 # Referências
+>https://www.gov.br/mdh/pt-br/noticias_seppir/noticias/disque-100-recebera-denuncias-de-racismo <acessado em 16/04/2023>
+>https://www.ideianoar.com.br/canvas-proposta-de-valor/ <acessado em 13/04/2023>
 
-......  COLOQUE AQUI O SEU TEXTO ......
 
-> Inclua todas as referências (livros, artigos, sites, etc) utilizados
-> no desenvolvimento do trabalho.
-> 
 > **Links Úteis**:
 > - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
 > - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
