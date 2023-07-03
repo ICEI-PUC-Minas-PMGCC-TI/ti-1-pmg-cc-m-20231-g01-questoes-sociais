@@ -5,25 +5,71 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Login</title>
    <link rel="stylesheet" type="text/css" href="cadastro.css">
+   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-aFq/bzH65dt+w6FI2ooMVUpc+21e0SRygnTpmBvdBgSdnuTN7QbdgL+OapgHtvPp" crossorigin="anonymous">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
    
 </head>
 <body>
-    
-    <div id="centro">
-    <h1>Login</h1>
-        <form action="">
-        <label for="username">Usuário:</label>
-        <input type="text" id="username" name="username"><br>
-        <label for="password">Senha:</label>
-        <input type="password" id="password" name="password">
-        <button type="submit" onclick="login(event)">Login</button>
-        <br>
-        <a id="next" href="cadastro.html">Não possui cadastro?</a>
-    </form>
-    
+    <header>
+          <nav class="d-flex m-3">
+            <div class="container-fluid">
+                <div class="row">
+                    <h5 class="col-sm-12 col-md-12 col-lg-6 col-xl-7 col-xxl-8"><a href="index.html">Seja bem vinde!</a></h5>
+                    <ul class="list-inline col-sm-12 col-md-12 col-lg-6 col-xl-5 col-xxl-4">
+                      <li class="list-inline-item"> <a href="quiz.html"> Quiz</a></li>
+                        <li class="list-inline-item"><a href="cadastro.html">Logar</a> </li>
+                        <li class="list-inline-item"> <a href="cadastroelogin.html"> Registrar</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
 
+    <div>
+      <div id="centro" class="bg-indigo bg-darken-lg text-white bg-secondary">
+        <h1 class="text-center mt-5">Login</h1>
+            <form action="" class="mb-4 m-4">\
+            <label for="username" >Usuário:</label>
+            <input type="text" id="username" name="username" ><br>
+            <label for="password" >Senha:</label>
+            <input type="password" id="password" name="password">
+            <button type="submit" onclick="login(event)">Login</button>
+            <br>
+            <a id="next" href="cadastro.html">Não possui cadastro?</a>
+        </form>
+        </div>
     </div>
     
+      <div class="container mt-5">
+        <div class="row">
+          <div class="col-sm">
+            <h5>Integrantes</h5> 
+            <ul class="list-unstyled">
+              <li ><a href="https://www.instagram.com/gabriel_hiron/">Gabriel Pereira</a></li>
+              <li ><a href="https://www.instagram.com/luiisa_clara/">Luisa Clara</a></li>
+              <li ><a href="https://www.instagram.com/yasmincassemiro_/">Yasmim Cassemiro</a></li>
+            </ul>
+          </div>
+          <div class="col-sm">
+            <h5>Fale conosco</h5>
+            <p><a href="integrantes.html">Dúvidas?</a></p>
+            <p><a href="mailto:lcplsilva@sga.pucminas.com">lcplsilva@sga.pucminas.com</a></p>
+    
+          </div>
+        </div>
+      </div>
+    
+    
     <script src="login.js"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </body>
 </html>
