@@ -265,18 +265,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 > Teste de cenario de denuncia anonima
 > Cenario de denuncia não anomia
 
-## Plano de Testes
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Enumere quais cenários de testes foram selecionados para teste. Neste
-> tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo
-> de usuários que foi escolhido para participar do teste e as
-> ferramentas utilizadas.
-> 
-
-
-## Registros de Testes e Ferramentas de Testes
+## Planos Registros de Testes e Ferramentas de Testes
 
 
 > Por ser um site pequeno todos os teste foram feitos nas proprias maquinas dos alunos, portanto não possui um registro de Teste
