@@ -199,8 +199,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
 |Processo de Design Thinkgin  | Miro |  https://miro.com/app/board/uXjVMYIm4CU=/ | 
-|Repositório de código | GitHub | https://github.com/XXXXXXX | 
-|Hospedagem do site | Heroku | | 
+|Repositório de código | GitHub |https://github.com/ICEI-PUC-Minas-PMGCC-TI/ti-1-pmg-cc-m-20231-g01-questoes-sociais | 
 |Protótipo Interativo | Canva | https://dellattio.my.canva.site | 
 |Divisão de tarefas | Trello | https://trello.com/pt-BR |
 
@@ -212,43 +211,20 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-> Discuta como a configuração do projeto foi feita na ferramenta de
-> versionamento escolhida. Exponha como a gerência de tags, merges,
-> commits e branchs é realizada. Discuta como a gerência de issues foi
-> realizada.
-> A ferramenta de controle de versão adotada no projeto foi o
-> [Git](https://git-scm.com/), sendo que o [Github](https://github.com)
-> foi utilizado para hospedagem do repositório `upstream`.
+> O projeto foi formado de apenas duas branches a principal e a secundaria para realizar o teste do cadastro e login
 > 
 > O projeto segue a seguinte convenção para o nome de branchs:
 > 
 > - `master`: versão estável já testada do software
-> - `unstable`: versão já testada do software, porém instável
-> - `testing`: versão em testes do software
-> - `dev`: versão de desenvolvimento do software
-> 
-> Quanto à gerência de issues, o projeto adota a seguinte convenção para
-> etiquetas:
-> 
-> - `bugfix`: uma funcionalidade encontra-se com problemas
-> - `enhancement`: uma funcionalidade precisa ser melhorada
-> - `feature`: uma nova funcionalidade precisa ser introduzida
->
-> **Links Úteis**:
-> - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
-> - [Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
-> - [5 Git Workflows & Branching Strategy to deliver better code](https://zepel.io/blog/5-git-workflows-to-improve-development/)
->
-> **Exemplo - GitHub Feature Branch Workflow**:
->
-> ![Exemplo de Wireframe](images/Github-Workflow.png)
-
-# **############## SPRINT 1 ACABA AQUI #############**
+> - `login`: versão testar o cadastro e login do software
 
 
 # Projeto da Solução
 
-......  COLOQUE AQUI O SEU TEXTO ......
+> Apos o semestre desenvolvendo o software para realizar sua solução foi feito o site Dellattio, o mesmo conta com cadastro e login de pessoas,
+> um quiz para informar sobre o assunto e um formulario de denuncias anonimas ou não.
+>
+> Com isso esperamos criar um ambiente informativo e seguro para dar voz a denúncias.
 
 ## Tecnologias Utilizadas
 
@@ -271,21 +247,22 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ......  COLOQUE AQUI O SEU TEXTO E O DIAGRAMA DE ARQUITETURA .......
 
-> Inclua um diagrama da solução e descreva os módulos e as tecnologias
-> que fazem parte da solução. Discorra sobre o diagrama.
-> 
-> **Exemplo do diagrama de Arquitetura**:
-> 
-> ![Exemplo de Arquitetura](images/arquitetura-exemplo.png)
+> ![image](https://github.com/ICEI-PUC-Minas-PMGCC-TI/ti-1-pmg-cc-m-20231-g01-questoes-sociais/assets/130714429/a2af5aaf-803f-4003-8502-ba0818f06bde)
+
 
 
 # Avaliação da Aplicação
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-> Apresente os cenários de testes utilizados na realização dos testes da
-> sua aplicação. Escolha cenários de testes que demonstrem os requisitos
-> sendo satisfeitos.
+> **Registro e login**:
+> Foi realizado o teste da pessoa cadastra e logar efetivamente
+> Não foi possivel cadastro por já estarem utilizando o mesmo nome
+> **QUIZ**
+> Foi realizado diversos testes para cada caminho possivel das respostas preenchidas
+> **Denuncia**
+> Teste de cenario de denuncia anonima
+> Cenario de denuncia não anomia
 
 ## Plano de Testes
 
@@ -296,29 +273,12 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 > de usuários que foi escolhido para participar do teste e as
 > ferramentas utilizadas.
 > 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
 
-## Ferramentas de Testes (Opcional)
 
-......  COLOQUE AQUI O SEU TEXTO ......
+## Registros de Testes e Ferramentas de Testes
 
-> Comente sobre as ferramentas de testes utilizadas.
-> 
-> **Links Úteis**:
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
 
-## Registros de Testes
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Discorra sobre os resultados do teste. Ressaltando pontos fortes e
-> fracos identificados na solução. Comente como o grupo pretende atacar
-> esses pontos nas próximas iterações. Apresente as falhas detectadas e
-> as melhorias geradas a partir dos resultados obtidos nos testes.
+> Por ser um site pequeno todos os teste foram feitos nas proprias maquinas dos alunos, portanto não possui um registro de Teste
 
 
 # Referências
