@@ -38,7 +38,6 @@ Ciência de Computação no  Coreu
   - [Divisão de Papéis](#divisão-de-papéis)
   - [Ferramentas](#ferramentas)
   - [Controle de Versão](#controle-de-versão)
-- [**############## SPRINT 1 ACABA AQUI #############**](#-sprint-1-acaba-aqui-)
 - [Projeto da Solução](#projeto-da-solução)
   - [Tecnologias Utilizadas](#tecnologias-utilizadas)
   - [Arquitetura da solução](#arquitetura-da-solução)
@@ -228,7 +227,8 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Tecnologias Utilizadas
 
-......  COLOQUE AQUI O SEU TEXTO ......
+> Nosso site utilizou as linguagens html css e javascript, com a utilização de bootstrap no html.
+> Foi utilizado o miro e o trello para organizaçã do time e o figma para criação de wireframe
 
 > Descreva aqui qual(is) tecnologias você vai usar para resolver o seu
 > problema, ou seja, implementar a sua solução. Liste todas as
@@ -245,7 +245,8 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Arquitetura da solução
 
-......  COLOQUE AQUI O SEU TEXTO E O DIAGRAMA DE ARQUITETURA .......
+
+>O site consiste em apenas local storage e foi publicado graças ao github
 
 > ![image](https://github.com/ICEI-PUC-Minas-PMGCC-TI/ti-1-pmg-cc-m-20231-g01-questoes-sociais/assets/130714429/a2af5aaf-803f-4003-8502-ba0818f06bde)
 
